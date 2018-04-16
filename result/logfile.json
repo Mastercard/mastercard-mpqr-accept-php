@@ -1,0 +1,61 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 4
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MpqrAccept\\AllTest",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MpqrAccept\\AllTest",
+    "test": "MasterCard\\Api\\MpqrAccept\\AllTest::test_101_example_institution_configuration_update_test"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MpqrAccept\\AllTest",
+    "test": "MasterCard\\Api\\MpqrAccept\\AllTest::test_101_example_institution_configuration_update_test",
+    "status": "pass",
+    "time": 2.4042019844055,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MpqrAccept\\AllTest",
+    "test": "MasterCard\\Api\\MpqrAccept\\AllTest::test_102_example_institution_configuration_read_test"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MpqrAccept\\AllTest",
+    "test": "MasterCard\\Api\\MpqrAccept\\AllTest::test_102_example_institution_configuration_read_test",
+    "status": "pass",
+    "time": 0.72160601615906,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MpqrAccept\\AllTest",
+    "test": "MasterCard\\Api\\MpqrAccept\\AllTest::test_103_example_institution_configuration_publish"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MpqrAccept\\AllTest",
+    "test": "MasterCard\\Api\\MpqrAccept\\AllTest::test_103_example_institution_configuration_publish",
+    "status": "pass",
+    "time": 0.58541202545166,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MpqrAccept\\AllTest",
+    "test": "MasterCard\\Api\\MpqrAccept\\AllTest::test_104_example_institution_configuration_unpublish"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MpqrAccept\\AllTest",
+    "test": "MasterCard\\Api\\MpqrAccept\\AllTest::test_104_example_institution_configuration_unpublish",
+    "status": "pass",
+    "time": 1.0864698886871,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

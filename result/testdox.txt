@@ -1,0 +1,6 @@
+MasterCard\Api\MpqrAccept\All
+ [x] 101 example institution configuration update test
+ [x] 102 example institution configuration read test
+ [x] 103 example institution configuration publish
+ [x] 104 example institution configuration unpublish
+

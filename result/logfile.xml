@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="4" assertions="11" failures="0" errors="0" time="4.797690">
+    <testsuite name="MasterCard\Api\MpqrAccept\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-MPQRAccept-Php/workspace/generated-code/mpqr-accept/php/sdk/Test/MasterCard/Api/MpqrAccept/AllTest.php" tests="4" assertions="11" failures="0" errors="0" time="4.797690">
+      <testcase name="test_101_example_institution_configuration_update_test" class="MasterCard\Api\MpqrAccept\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-MPQRAccept-Php/workspace/generated-code/mpqr-accept/php/sdk/Test/MasterCard/Api/MpqrAccept/AllTest.php" line="51" assertions="0" time="2.404202"/>
+      <testcase name="test_102_example_institution_configuration_read_test" class="MasterCard\Api\MpqrAccept\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-MPQRAccept-Php/workspace/generated-code/mpqr-accept/php/sdk/Test/MasterCard/Api/MpqrAccept/AllTest.php" line="80" assertions="11" time="0.721606"/>
+      <testcase name="test_103_example_institution_configuration_publish" class="MasterCard\Api\MpqrAccept\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-MPQRAccept-Php/workspace/generated-code/mpqr-accept/php/sdk/Test/MasterCard/Api/MpqrAccept/AllTest.php" line="108" assertions="0" time="0.585412"/>
+      <testcase name="test_104_example_institution_configuration_unpublish" class="MasterCard\Api\MpqrAccept\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-MPQRAccept-Php/workspace/generated-code/mpqr-accept/php/sdk/Test/MasterCard/Api/MpqrAccept/AllTest.php" line="124" assertions="0" time="1.086470"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,6 @@
+TAP version 13
+ok 1 - MasterCard\Api\MpqrAccept\AllTest::test_101_example_institution_configuration_update_test
+ok 2 - MasterCard\Api\MpqrAccept\AllTest::test_102_example_institution_configuration_read_test
+ok 3 - MasterCard\Api\MpqrAccept\AllTest::test_103_example_institution_configuration_publish
+ok 4 - MasterCard\Api\MpqrAccept\AllTest::test_104_example_institution_configuration_unpublish
+1..4
